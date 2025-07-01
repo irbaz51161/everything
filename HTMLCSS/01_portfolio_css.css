@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    /* margin-left: 10px; */
+    padding: 20px;
+    background-color: antiquewhite;
+}
+nav{
+    margin: 20px 10px 20px 0px;
+    font-size: 20px;
+}
+#about{
+    margin-right: 10px;
+}
+#hobbies{
+    margin-right: 10px;
+}
+img{
+    margin-left: 20px;
+    border-radius: 10px;
+}
+iframe{
+    margin-left: 20px;
+    border-radius: 10px;
+}
+video{
+    margin-left: 20px;
+    border-radius: 10px;
+}
